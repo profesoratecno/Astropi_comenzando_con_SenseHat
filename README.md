@@ -32,5 +32,7 @@ Nuestro primer código, como a cualquier informático cuando comienza una nueva 
         #órdenes
         sense.show_message("¡HOLA MUNDO!!")
         
+También es divertido ir introduciendo colores a nuestras creaciones, podemos **[Representar colores con tres número: código RGB](https://github.com/raspberrypilearning/generic-theory-colours/blob/master/es-ES/step_1.md)
+
 ## Primer ejercicio
 Vamos a ir entregando código a código. Primero entregamos nuestro nombre generado con colores aleatorios.
