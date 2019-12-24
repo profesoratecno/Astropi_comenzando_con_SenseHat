@@ -21,6 +21,7 @@ Siempre comenzaremos nuestro proyectos con estas líneas:
       
 Nuestro primer código, como a cualquier informático cuando comienza una nueva sintaxis en un nuevo código de programación, y tan sólo para prácticar comenzaremos con nuestro : **"¡HOLA MUNDO!!"**
 
+
         #librería
         from sense_hat import SenseHat
         
@@ -40,6 +41,8 @@ Además vamos a introducir nuestro código en un *"por siempre"*, con el comando
 Fíjate que nuestro **show_message** ahora lo tenemos que escribir *"sangrado"* para introducirlo en el bucle **while**.
 
 Aquí el ejemplo:
+
+
         #librería
         from sense_hat import SenseHat
         
