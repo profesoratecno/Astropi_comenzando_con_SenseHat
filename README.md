@@ -7,9 +7,10 @@ Documentación actualizada del siguiente tutorial: [Getting started with the Sen
 ¿Dónde vamos a relizar nuestras prácticas? -> En [trinket] (https://trinket.io/) Podemos darnos de alta con nuestro correo de gmail y creamos nuestro primer archivo de Python pinchando sobre nuestra cuenta **>New Trinket>Python**.
 Siempre comenzaremos nuestro proyectos con estas líneas:
 
-        ´´´
+        
         #librería
         from sense_hat import SenseHat
         
         #configuración inicial
-        sense = SenseHat()´´´
+        sense = SenseHat()
+      
