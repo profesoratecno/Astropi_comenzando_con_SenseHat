@@ -32,8 +32,12 @@ Nuestro primer código, como a cualquier informático cuando comienza una nueva 
         #órdenes
         sense.show_message("¡HOLA MUNDO!!")
         
-También es divertido ir introduciendo colores a nuestras creaciones, podemos **[Representar colores con tres números: código RGB](https://github.com/raspberrypilearning/generic-theory-colours/blob/master/es-ES/step_1.md)** Para ello vamos a crear dos variables.
-Además vamos a introducir nuestro código en un "por siempre", con el comando **while**, ahora nuestro código es muy corto, pero cuando comience a ser más largo no querremos tener siembre apareciendo un mensaje, solamente cuando se cumpla alguna condición. Fíjate que nuestro **show_message** ahora lo tenemos que escribir *"sangrado"* para introducirlo en el bucle **while**.
+También es divertido ir introduciendo colores a nuestras creaciones, podemos **[Representar colores con tres números: código RGB](https://github.com/raspberrypilearning/generic-theory-colours/blob/master/es-ES/step_1.md)**.
+
+Para ello vamos a crear dos variables -> azul y amarillo
+
+Además vamos a introducir nuestro código en un *"por siempre"*, con el comando **while**, ahora nuestro código es muy corto, pero cuando comience a ser más largo no querremos tener siembre apareciendo un mensaje, solamente cuando se cumpla alguna condición. 
+Fíjate que nuestro **show_message** ahora lo tenemos que escribir *"sangrado"* para introducirlo en el bucle **while**.
 
 Aquí el ejemplo:
         #librería
