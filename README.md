@@ -15,3 +15,14 @@ Siempre comenzaremos nuestro proyectos con estas líneas:
         #configuración inicial
         sense = SenseHat()
       
+Nuestro primer código, como a cualquier informático cuando comienza una nueva sintaxis en un nuevo código de programación, y tan sólo para prácticar comenzaremos con nuestro : **"¡HOLA MUNDO!!"**
+
+        #librería
+        from sense_hat import SenseHat
+        
+        #configuración inicial
+        sense = SenseHat()
+        sense.show_message("¡HOLA MUNDO!!")
+        
+## Primer ejercicio
+Vamos a ir entregando código a código. Primero entregamos nuestro nombre generado con colores aleatorios.
