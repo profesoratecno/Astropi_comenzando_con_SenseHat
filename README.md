@@ -26,6 +26,10 @@ Nuestro primer código, como a cualquier informático cuando comienza una nueva 
         
         #configuración inicial
         sense = SenseHat()
+        
+        #variables
+        
+        #órdenes
         sense.show_message("¡HOLA MUNDO!!")
         
 ## Primer ejercicio
