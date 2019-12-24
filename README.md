@@ -8,8 +8,8 @@ Documentación actualizada del siguiente tutorial: [Getting started with the Sen
 Siempre comenzaremos nuestro proyectos con estas líneas:
 
         ´´´
-#librería
-from sense_hat import SenseHat
-
-#configuración inicial
-sense = SenseHat()´´´
+        #librería
+        from sense_hat import SenseHat
+        
+        #configuración inicial
+        sense = SenseHat()´´´
